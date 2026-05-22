@@ -5,7 +5,7 @@ from openai import OpenAI
 from colorama import Fore, Style, init
 
 init()
-
+#Hey Dont Use this api you will get Hacked :) 
 client = OpenAI(
     base_url="https://api.groq.com/openai/v1",
     api_key="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"
